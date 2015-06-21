@@ -1,9 +1,13 @@
 #Introduction
 The script run_analysis.R performs the 5 steps (as described in the course project's definition).
 ##Steps:
+
 1.Merging the training and test sets
+
 --1.1.Load the training sets and bind
+
 --1.2.Load the test sets and bind
+
 --1.3.Finally,Merging operation
 
 2.Now extracting only mean and std related measurements(or columns).
